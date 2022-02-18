@@ -22,10 +22,4 @@ A Git & GitHub Workshop is organized by [Sachin Mittal](https://github.com/Sachi
  * Make changes
  * Now head over to http://localhost:3000/ to see it working.
 
-## Contributors
-<br>
-<a href="https://github.com/SachinMittal1766/Git-GitHub-Workshop/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SachinMittal1766/Git-GitHub-Workshop" />
-</a>
-<br>
 
